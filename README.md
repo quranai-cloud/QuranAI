@@ -6,7 +6,7 @@
 # مشروع QuranAI
 
 <div align="center">
-  <img src="https://your-logo-url-here.png" alt="شعار QuranAI" width="250"/>
+  <img src="https://avatars.githubusercontent.com/u/205100408?v=4" alt="شعار QuranAI" width="250"/>
   <h2>مشروع تحليل القرآن الكريم باستخدام أدوات الذكاء الاصطناعي والبرمجة</h2>
 </div>
 
@@ -92,11 +92,12 @@ QuranAI هي منصة بحثية للدراسات القرآنية الحاسو�
 
 نرحب بالمساهمات من المطورين والباحثين واللغويين وعلماء القرآن. راجع [إرشادات المساهمة](CONTRIBUTING.md) للبدء.
 
-## 🌍 المجتمع
+## 🌍 المجتمع- Join our [Discord server](https://discord.gg/MctTU8ub) for discussions
 
-- انضم إلى [سيرفر ديسكورد](https://discord.gg/quranai) للمناقشات
-- تابعنا على [تويتر](https://twitter.com/QuranAI_Project)
-- اشترك في [قناة يوتيوب](https://youtube.com/c/QuranAIProject) للدروس التعليمية
+
+
+- انضم إلى [سيرفر ديسكورد](https://discord.gg/MctTU8ub) للمناقشات
+- تابعنا على [فيسبوك](https://www.facebook.com/groups/quranai)
 
 ## 📜 الترخيص
 
@@ -122,7 +123,7 @@ QuranAI هي منصة بحثية للدراسات القرآنية الحاسو�
 # QuranAI Project
 
 <div align="center">
-  <img src="https://your-logo-url-here.png" alt="QuranAI Logo" width="250"/>
+  <img src="https://avatars.githubusercontent.com/u/205100408?v=4" alt="QuranAI Logo" width="250"/>
   <h3>Computational & AI-Powered Quranic Research Tools</h3>
 </div>
 
@@ -209,10 +210,8 @@ All findings are backed by reproducible code and queries available in our reposi
 We welcome contributions from developers, researchers, linguists, and Quranic scholars. See our [Contributing Guidelines](CONTRIBUTING.md) to get started.
 
 ## 🌍 Community
-
-- Join our [Discord server](https://discord.gg/quranai) for discussions
-- Follow us on [Twitter](https://twitter.com/QuranAI_Project)
-- Subscribe to our [YouTube channel](https://youtube.com/c/QuranAIProject) for tutorials
+- Join our [Discord server](https://discord.gg/MctTU8ub) for discussions
+- Follow us on [Facebook](https://www.facebook.com/groups/quranai)
 
 ## 📜 License
 
