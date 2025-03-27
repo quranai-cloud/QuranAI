@@ -7,7 +7,7 @@
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/205100408?v=4" alt="شعار QuranAI" width="250"/>
-  <h2>مشروع تحليل القرآن الكريم باستخدام أدوات الذكاء الاصطناعي والبرمجة</h2>
+  <h2>مشروع تحليل القرآن الكريم باستخدام أدوات الذكاء الاصطناعي وعلوم البيانات والبرمجة</h2>
 </div>
 
 <div align="center">
@@ -15,40 +15,20 @@
 [![الموقع](https://img.shields.io/badge/الموقع-QuranAI.cloud-blue)](https://quranai.cloud)
 [![الترخيص](https://img.shields.io/badge/الترخيص-MIT-green.svg)](LICENSE)
 [![الأبحاث](https://img.shields.io/badge/الأبحاث-مستمرة-brightgreen.svg)](https://quranai.cloud/research)
-[![المساهمون](https://img.shields.io/github/contributors/quranai-project/QuranAI)](https://github.com/quranai-project/QuranAI/graphs/contributors)
+[![المساهمون](https://img.shields.io/github/contributors/quranai-cloud/QuranAI)](https://github.com/quranai-cloud/QuranAI/graphs/contributors)
 
 </div>
 
 ## 🌟 الرؤية
 
-QuranAI هي منصة بحثية للدراسات القرآنية الحاسوبية. نقوم بتطوير أدوات مفتوحة المصدر لتحليل واستخراج وتصور العلاقات ذات المعنى في كلمات وأحرف وتراكيب القرآن الكريم.
+QuranAI.Cloud هي منصة بحثية للدراسات القرآنية البرمجية. نقوم بتطوير أدوات مفتوحة المصدر لتحليل واستخراج وتصور العلاقات ذات المعنى في كلمات وأحرف وتراكيب القرآن الكريم.
 
-مهمتنا هي جعل البيانات القرآنية الدقيقة والقابلة للتحقق متاحة للباحثين والطلاب والمهتمين في جميع أنحاء العالم من خلال تقنيات الحوسبة الحديثة.
+مهمتنا هي جعل البيانات القرآنية الدقيقة والقابلة للتحقق متاحة للباحثين والطلاب والمهتمين في جميع أنحاء العالم من خلال تقنيات البرمجيات وعلوم البيانات و الذكاء الاصطناعي .
 
 ## 🧩 مكونات المشروع
 
-يتكون QuranAI من عدة مكونات متكاملة:
+يتكون QuranAI.Cloud من عدة مكونات متكاملة:
 
-### 📊 [QuranAI-Database](https://github.com/quranai-project/QuranAI-Database)
-مخطط قاعدة بيانات PostgreSQL شامل للقرآن الكريم، محسن للتحليل الحاسوبي.
-- تعريف المخطط الكامل
-- نصوص الإعداد
-- نسخ قاعدة البيانات
-- التوثيق
-
-### 📝 [QuranAI-SQL-Analytics](https://github.com/quranai-project/QuranAI-SQL-Analytics)
-مجموعة من نصوص SQL لاستكشاف الأنماط في القرآن.
-- التحليل الإحصائي
-- الأنماط اللغوية
-- العلاقات الرقمية
-- أكثر من 50 نمطًا تم التحقق منه
-
-### 🐍 [QuranAI-Python-Tools](https://github.com/quranai-project/QuranAI-Python-Tools)
-نصوص بايثون ووحدات ودفاتر للتحليل المتقدم.
-- أدوات التنقيب في البيانات
-- التحليل الإحصائي
-- نصوص التصور
-- دفاتر جوبيتر
 
 ### 🌐 [QuranAI.cloud](https://quranai.cloud)
 منصة ويب تفاعلية تنفذ هذه الأدوات بواجهة سهلة الاستخدام.
@@ -57,16 +37,30 @@ QuranAI هي منصة بحثية للدراسات القرآنية الحاسو�
 - تصورات تفاعلية
 - تقارير قابلة للتنزيل
 
+### 📊 [QuranAI-Database](https://github.com/quranai-cloud/QuranAI-Database)
+مخطط قاعدة بيانات PostgreSQL شامل للقرآن الكريم، محسن للتحليل الحاسوبي.
+- تعريف المخطط الكامل
+- نصوص الإعداد
+- نسخ قاعدة البيانات
+- التوثيق
+
+### 📝 [QuranAI-SQL-Analytics](https://github.com/quranai-cloud/QuranAI-SQL-Analytics)
+مجموعة من نصوص SQL لاستكشاف الأنماط في القرآن.
+- التحليل الإحصائي
+- الأنماط اللغوية
+- العلاقات الرقمية
+- أكثر من 50 نمطًا تم التحقق منه
+
+
 ## 🚀 البدء
 
 اختر نقطة البداية بناءً على اهتماماتك:
 
 **للباحثين وعلماء البيانات:**
-- ابدأ بـ [QuranAI-Database](https://github.com/quranai-project/QuranAI-Database) لإعداد الأساس
-- استكشف [QuranAI-Python-Tools](https://github.com/quranai-project/QuranAI-Python-Tools) لتحليل البيانات
+- ابدأ بـ [QuranAI-Database](https://github.com/quranai-cloud/QuranAI-Database) لإعداد الأساس
 
 **لخبراء قواعد البيانات:**
-- افحص [QuranAI-SQL-Analytics](https://github.com/quranai-project/QuranAI-SQL-Analytics) لاكتشاف الأنماط باستخدام SQL
+- افحص [QuranAI-SQL-Analytics](https://github.com/quranai-cloud/QuranAI-SQL-Analytics) لاكتشاف الأنماط باستخدام SQL
 
 **للمستخدمين النهائيين:**
 - قم بزيارة [QuranAI.cloud](https://quranai.cloud) للتفاعل مع أدواتنا مباشرة
@@ -107,7 +101,7 @@ QuranAI هي منصة بحثية للدراسات القرآنية الحاسو�
 
 - **الموقع:** [QuranAI.cloud](https://quranai.cloud)
 - **البريد الإلكتروني:** [info@quranai.cloud](mailto:info@quranai.cloud)
-- **جيتهب:** [@quranai-project](https://github.com/quranai-project)
+- **جيتهب:** [@quranai-cloud](https://github.com/quranai-cloud)
 
 ## ⭐ شعارنا
 
@@ -132,7 +126,7 @@ QuranAI هي منصة بحثية للدراسات القرآنية الحاسو�
 [![Website](https://img.shields.io/badge/Website-QuranAI.cloud-blue)](https://quranai.cloud)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Research](https://img.shields.io/badge/Research-Ongoing-brightgreen.svg)](https://quranai.cloud/research)
-[![Contributors](https://img.shields.io/github/contributors/quranai-project/QuranAI)](https://github.com/quranai-project/QuranAI/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/quranai-cloud/QuranAI)](https://github.com/quranai-cloud/QuranAI/graphs/contributors)
 
 </div>
 
@@ -145,45 +139,39 @@ Our mission is to make precise, verifiable Quranic data accessible to researcher
 ## 🧩 Project Components
 
 QuranAI consists of several integrated components:
-
-### 📊 [QuranAI-Database](https://github.com/quranai-project/QuranAI-Database)
-Comprehensive PostgreSQL database schema for the Holy Quran, optimized for computational analysis.
-- Complete schema definition
-- Setup scripts
-- Database snapshots
-- Documentation
-
-### 📝 [QuranAI-SQL-Analytics](https://github.com/quranai-project/QuranAI-SQL-Analytics)
-Collection of SQL scripts for exploring patterns in the Quran.
-- Statistical analysis
-- Linguistic patterns
-- Numerical relationships
-- 50+ verified patterns
-
-### 🐍 [QuranAI-Python-Tools](https://github.com/quranai-project/QuranAI-Python-Tools)
-Python scripts, modules, and notebooks for advanced analysis.
-- Data mining tools
-- Statistical analysis
-- Visualization scripts
-- Jupyter notebooks
-
 ### 🌐 [QuranAI.cloud](https://quranai.cloud)
 Interactive web platform implementing these tools with a user-friendly interface.
 - Research dashboard
 - Pattern explorer
 - Interactive visualizations
 - Downloadable reports
+- 
+### 📊 [QuranAI-Database](https://github.com/quranai-cloud/QuranAI-Database)
+Comprehensive PostgreSQL database schema for the Holy Quran, optimized for computational analysis.
+- Complete schema definition
+- Setup scripts
+- Database snapshots
+- Documentation
+
+### 📝 [QuranAI-SQL-Analytics](https://github.com/quranai-cloud/QuranAI-SQL-Analytics)
+Collection of SQL scripts for exploring patterns in the Quran.
+- Statistical analysis
+- Linguistic patterns
+- Numerical relationships
+- 50+ verified patterns
+
+
 
 ## 🚀 Getting Started
 
 Choose your starting point based on your interests:
 
 **For Researchers and Data Scientists:**
-- Start with [QuranAI-Database](https://github.com/quranai-project/QuranAI-Database) to set up the foundation
-- Explore [QuranAI-Python-Tools](https://github.com/quranai-project/QuranAI-Python-Tools) for data analysis
+- Start with [QuranAI-Database](https://github.com/quranai-cloud/QuranAI-Database) to set up the foundation
+- Explore [QuranAI-Python-Tools](https://github.com/quranai-cloud/QuranAI-Python-Tools) for data analysis
 
 **For Database Experts:**
-- Examine [QuranAI-SQL-Analytics](https://github.com/quranai-project/QuranAI-SQL-Analytics) for SQL-based pattern discovery
+- Examine [QuranAI-SQL-Analytics](https://github.com/quranai-cloud/QuranAI-SQL-Analytics) for SQL-based pattern discovery
 
 **For End Users:**
 - Visit [QuranAI.cloud](https://quranai.cloud) to interact with our tools directly
@@ -221,7 +209,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Website:** [QuranAI.cloud](https://quranai.cloud)
 - **Email:** [info@quranai.cloud](mailto:info@quranai.cloud)
-- **GitHub:** [@quranai-project](https://github.com/quranai-project)
+- **GitHub:** [@quranai-cloud](https://github.com/quranai-cloud)
 
 ## ⭐ Motto
 
