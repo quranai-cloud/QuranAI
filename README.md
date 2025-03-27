@@ -78,9 +78,7 @@ QuranAI.Cloud هي منصة بحثية للدراسات القرآنية الب�
 
 ## 📣 المنشورات المميزة
 
-- "التحليل الحاسوبي للتوازن المعجمي في النص القرآني" - المجلة الدولية للسانيات الحاسوبية، 2024
-- "الأنماط الإحصائية في توزيع أحرف القرآن" - مؤتمر تحليل النصوص الدينية، 2023
-- "الاكتشاف الآلي للعلاقات الرقمية في القرآن" - مجلة علوم البيانات الدينية، 2023
+قريبا 
 
 ## 🤝 المساهمة
 
@@ -180,11 +178,7 @@ Choose your starting point based on your interests:
 
 Our research has led to numerous verified linguistic and numerical patterns, including:
 
-- **Word Pair Balance**: Numerous semantically related word pairs appear exactly the same number of times (e.g., "man" and "woman" - 24 times each)
-- **Letter Distribution**: Statistical analysis of letter frequencies reveals meaningful patterns across chapters
-- **Root Word Relationships**: Connections between words sharing the same root across different contexts
-- **Structural Balance**: Symmetrical patterns in verse structures and word placement
-
+Comming Soon
 All findings are backed by reproducible code and queries available in our repositories.
 
 ## 📣 Featured Publications
